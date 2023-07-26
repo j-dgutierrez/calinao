@@ -1,7 +1,5 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEnvelope } from "@fortawesome/free-regular-svg-icons"; // Regular style icon
-//paperpale
 import { faPaperPlane } from "@fortawesome/free-regular-svg-icons";
 import baptismImage from "../assets/baptism.jpg";
 import birthdayImage from "../assets/birthday.jpg";
