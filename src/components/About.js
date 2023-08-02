@@ -2,7 +2,6 @@ import React from "react";
 import baptismImage from "../assets/baptism.jpg";
 import birthdayImage from "../assets/birthday.jpg";
 import weddingImage from "../assets/wedding.jpg";
-import partyImage from "../assets/party.jpg";
 
 const About = () => {
   const titleStyle = {
@@ -30,7 +29,7 @@ const About = () => {
   };
 
   return (
-    <section className="about-section bg-sky-300 py-10">
+    <section className="about-section bg-sky-300 py-10" id="about">
       <div className="container mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div className="content w-full ">
           <h2 className="text-3xl text-center font-bold" style={titleStyle}>

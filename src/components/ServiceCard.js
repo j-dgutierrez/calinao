@@ -41,10 +41,6 @@ const ServiceCard = () => {
           className="service-card bg-white rounded-lg shadow-sm border border-gray-300 hover:shadow transition duration-300 w-full relative"
           key={index}
         >
-          {/* <div
-            className="absolute w-8 h-5 top-5 end-0 shadow"
-            style={{ backgroundColor: "rgb(251,70,17)" }}
-          ></div> */}
           <div className="image flex justify-center items-center">
             <img
               src={service.image}

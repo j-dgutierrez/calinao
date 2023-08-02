@@ -12,6 +12,7 @@ const Hero = () => {
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
       }}
+      id="home"
     >
       <div className="container h-full mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div className="flex justify-center items-center h-full">

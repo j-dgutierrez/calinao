@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import logo from "../assets/logo-no-bg-2.png";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -95,12 +96,12 @@ const Navbar = () => {
                 >
                   Contact Us
                 </a>
-                <a
-                  href="/"
+                <Link
+                  to="/login"
                   className="text-black bg-white rounded-full px-6 py-2 text-sm font-medium"
                 >
                   Login
-                </a>
+                </Link>
               </div>
             </div>
           </div>

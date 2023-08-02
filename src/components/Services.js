@@ -27,7 +27,7 @@ const Services = () => {
   };
 
   return (
-    <section className="services-section bg-white py-10">
+    <section className="services-section bg-white py-10" id="services">
       <div className="container mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div className="content w-full ">
           <h2
