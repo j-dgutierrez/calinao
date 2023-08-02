@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccbd194c.css",
+    "main.js": "/static/js/main.f0a2d219.js",
+    "static/js/787.4b42648f.chunk.js": "/static/js/787.4b42648f.chunk.js",
+    "static/media/core-header.jpg": "/static/media/core-header.88ae7510f78a6e8d2818.jpg",
+    "static/media/baptism.jpg": "/static/media/baptism.cb644731b93af28aa364.jpg",
+    "static/media/hero-background.png": "/static/media/hero-background.98c3bac1ba16ad956cfb.png",
+    "static/media/wedding.jpg": "/static/media/wedding.6992f8b6a32e1cf079d3.jpg",
+    "static/media/mission-header.jpg": "/static/media/mission-header.fc27001366a7290ac9e9.jpg",
+    "static/media/party.jpg": "/static/media/party.bca41152ee626837417b.jpg",
+    "static/media/birthday.jpg": "/static/media/birthday.db8dbb5a826b9ffa227f.jpg",
+    "static/media/vision-header.jpg": "/static/media/vision-header.411c347d97b2eb1464c5.jpg",
+    "static/media/logo-no-bg-2.png": "/static/media/logo-no-bg-2.56723d8bc4f29f6b8475.png",
+    "static/media/plate.png": "/static/media/plate.b18afd49c5eab1dc1a73.png",
+    "static/media/mission-icon.png": "/static/media/mission-icon.f9f44248721f0601f25b.png",
+    "static/media/core-icon.png": "/static/media/core-icon.5a31abaddee45d1998cc.png",
+    "static/media/vision-icon.png": "/static/media/vision-icon.b92e396597462eccce89.png",
+    "index.html": "/index.html",
+    "main.ccbd194c.css.map": "/static/css/main.ccbd194c.css.map",
+    "main.f0a2d219.js.map": "/static/js/main.f0a2d219.js.map",
+    "787.4b42648f.chunk.js.map": "/static/js/787.4b42648f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbd194c.css",
+    "static/js/main.f0a2d219.js"
+  ]
+}
